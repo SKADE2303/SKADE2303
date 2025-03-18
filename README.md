@@ -26,7 +26,7 @@ I'm Saket Hatwar, currently a third-year student pursuing a major in Computer Sc
 ### 📫 Let's Connect!  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saket-hatwar-aaa36224a/)  
-[![Resume](https://img.shields.io/badge/Resume-%23ff4081.svg?logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1fscCEH7pwv_9kAfzxkdrXovHvISMOlub/view?usp=sharing)  
+[![Resume](https://drive.google.com/file/d/1fscCEH7pwv_9kAfzxkdrXovHvISMOlub/view?usp=sharing)  
 
 # 📊 GitHub Stats:  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SKADE2303&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=c%2B%2B,c,jupyter%20notebook,cmake,makefile) &nbsp;&nbsp;
